@@ -58,7 +58,3 @@ Most of my time on campus has been spent becoming a Computer Engineer and double
 - [ctse-workshops](https://github.com/EarlMcCard/ctse-workshops) - A dedicated collection of all workshops completed during the Coding Temple Full-Stack Software Engineering certification program.
 
 <!-- blog end -->
-
-</td></tr></table>
-
-~<a href="https://github.com/codepunkt/codepunkt/actions">~~<img src="https://github.com/codepunkt/codepunkt/workflows/Build%20README.md/badge.svg" align="right" alt="Build README">~~</a>~
