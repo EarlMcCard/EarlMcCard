@@ -53,13 +53,9 @@ Most of my time on campus has been spent becoming a Computer Engineer and double
 
 ### Latest Projects
 
-- [ctse-projects](https://github.com/EarlMcCard/ctse-projects)
+- [ctse-projects](https://github.com/EarlMcCard/ctse-projects) - A repository showcasing the projects and applications I developed while earning my Full-Stack Software Engineer certification from Coding Temple.
 
-A repository showcasing the projects and applications I developed while earning my Full-Stack Software Engineer certification from Coding Temple.
-
-- [ctse-workshops](https://github.com/EarlMcCard/ctse-workshops)
-
-A dedicated collection for all workshops completed during the Coding Temple Full-Stack Software Engineering certification program.
+- [ctse-workshops](https://github.com/EarlMcCard/ctse-workshops) - A dedicated collection for all workshops completed during the Coding Temple Full-Stack Software Engineering certification program.
 
 <!-- blog end -->
 
