@@ -52,6 +52,7 @@ class Developer : virtual Foo {
 Most of my time on campus has been spent becoming a Computer Engineer and double majoring in Computer Science. I'm currently into debian linux, data structures, and working on old projects from college. I'm constantly working on mobile apps, updating my webpages or just plain rtfm! I use this repository for projects that I build in my courses and in my spare time. Please feel free to check out my most recent repositories!
 
 ### Latest Projects
+- [fakestore-app](https://github.com/EarlMcCard/fakestore-app) - A repository of my latest work in the final react module at Coding Temple. A product inventory system I developed to retrieve, store, and update data fetched from FakeStoreAPI.
 
 - [ctse-projects](https://github.com/EarlMcCard/ctse-projects) - A repository showcasing the projects and applications I developed while earning my Full-Stack Software Engineer certification from Coding Temple.
 
